@@ -1,0 +1,29 @@
+
+.grid {
+	width: 600px;
+	height: 600px;
+	margin: auto;
+	background-color: white;
+	display: inline-block;
+	padding: 0px;
+
+}
+
+.grid {
+	margin-top: 20px;
+}
+.square {
+	width: 20px;
+	height: 20px;
+	background-color: gray;
+	display: inline-block;
+	border-radius: 0px;
+}
+
+.myButton {
+	display: inline-block;	
+}
+.resetButton {
+	display: inline-block;
+}
+
